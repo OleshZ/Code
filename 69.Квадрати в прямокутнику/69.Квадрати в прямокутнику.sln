@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "69.Квадрати в прямокутнику", "69.Квадрати в прямокутнику\69.Квадрати в прямокутнику.vcxproj", "{67D5E7E4-642E-45B8-BFFC-D36ECD7072D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D5E7E4-642E-45B8-BFFC-D36ECD7072D3}.Debug|x64.ActiveCfg = Debug|x64
+		{67D5E7E4-642E-45B8-BFFC-D36ECD7072D3}.Debug|x64.Build.0 = Debug|x64
+		{67D5E7E4-642E-45B8-BFFC-D36ECD7072D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{67D5E7E4-642E-45B8-BFFC-D36ECD7072D3}.Debug|x86.Build.0 = Debug|Win32
+		{67D5E7E4-642E-45B8-BFFC-D36ECD7072D3}.Release|x64.ActiveCfg = Release|x64
+		{67D5E7E4-642E-45B8-BFFC-D36ECD7072D3}.Release|x64.Build.0 = Release|x64
+		{67D5E7E4-642E-45B8-BFFC-D36ECD7072D3}.Release|x86.ActiveCfg = Release|Win32
+		{67D5E7E4-642E-45B8-BFFC-D36ECD7072D3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52AB55DD-08F1-44E3-A568-7572B504F051}
+	EndGlobalSection
+EndGlobal
