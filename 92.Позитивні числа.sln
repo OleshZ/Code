@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "92.Позитивні числа", "92.Позитивні числа\92.Позитивні числа.vcxproj", "{C6FB96D9-DBAB-4FC4-9B3C-C0966C648A5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FB96D9-DBAB-4FC4-9B3C-C0966C648A5E}.Debug|x64.ActiveCfg = Debug|x64
+		{C6FB96D9-DBAB-4FC4-9B3C-C0966C648A5E}.Debug|x64.Build.0 = Debug|x64
+		{C6FB96D9-DBAB-4FC4-9B3C-C0966C648A5E}.Debug|x86.ActiveCfg = Debug|Win32
+		{C6FB96D9-DBAB-4FC4-9B3C-C0966C648A5E}.Debug|x86.Build.0 = Debug|Win32
+		{C6FB96D9-DBAB-4FC4-9B3C-C0966C648A5E}.Release|x64.ActiveCfg = Release|x64
+		{C6FB96D9-DBAB-4FC4-9B3C-C0966C648A5E}.Release|x64.Build.0 = Release|x64
+		{C6FB96D9-DBAB-4FC4-9B3C-C0966C648A5E}.Release|x86.ActiveCfg = Release|Win32
+		{C6FB96D9-DBAB-4FC4-9B3C-C0966C648A5E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {966D597E-6BE3-4466-9652-FE6E3AE9DFFE}
+	EndGlobalSection
+EndGlobal
