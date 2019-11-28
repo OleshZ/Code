@@ -1,0 +1,5 @@
+﻿  3.cpp
+D:\Програми\Програмування С++\3\3\3.cpp(27,43): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Програми\Програмування С++\3\3\3.cpp(39,47): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Програми\Програмування С++\3\3\3.cpp(40,47): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  3.vcxproj -> D:\Програми\Програмування С++\3\Debug\3.exe
